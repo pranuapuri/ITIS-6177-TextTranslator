@@ -11,9 +11,13 @@ https://azure.microsoft.com/en-us/free/cognitive-services
 # Prerequisites:
 
 Express
+
 Node.js
+
 Azure subscription
+
 Digital Ocean Droplet
+
 Swagger
 
 URL: http://137.184.102.57:3002/
