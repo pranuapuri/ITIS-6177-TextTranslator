@@ -20,11 +20,15 @@ Digital Ocean Droplet
 
 Swagger
 
+
 URL: http://137.184.102.57:3002/
+
+
 
 # Run the application 
 
 npm start 
+
 Swagger Playground: http://137.184.102.57:3002/docs/
 
 
